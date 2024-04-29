@@ -11,7 +11,7 @@ ENV HOST=localhost \
     USER=root \
     PASSWORD=root \
     DBNAME=root \
-    PORT=5433
+    PORT=5432
 
 COPY ./main main
 
